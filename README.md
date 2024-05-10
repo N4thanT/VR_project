@@ -5,9 +5,9 @@ Luua VR mäng, mis simuleerib jootmist
 
 Mida läheb vaja 
 
-- Game start menüü
+- Mängu alustamise menüü
 - Maailma simulatsioon
 - Funktsionaalsus
 
 
-Põhiprojekti asukoht: (sisesta URL)
+Põhiprojekti asukoht: https://github.com/Matlik-Official/Soldering 
